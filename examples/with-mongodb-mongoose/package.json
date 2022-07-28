@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "mongoose": "^5.9.13",
+    "mongoose": "^6.4.6",
     "next": "^9.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
