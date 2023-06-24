@@ -79,7 +79,7 @@
     "css-loader": "4.3.0",
     "cssnano-simple": "1.2.1",
     "etag": "1.8.1",
-    "find-cache-dir": "3.3.1",
+    "find-cache-dir": "4.0.0",
     "jest-worker": "24.9.0",
     "loader-utils": "2.0.0",
     "native-url": "0.3.4",
@@ -102,7 +102,7 @@
     "use-subscription": "1.5.1",
     "vm-browserify": "1.1.2",
     "watchpack": "2.0.0-beta.13",
-    "webpack": "4.44.1",
+    "webpack": "5.1.1",
     "webpack-sources": "1.4.3"
   },
   "peerDependencies": {
@@ -184,7 +184,7 @@
     "devalue": "2.0.1",
     "escape-string-regexp": "2.0.0",
     "file-loader": "6.0.0",
-    "find-cache-dir": "3.3.1",
+    "find-cache-dir": "4.0.0",
     "find-up": "4.1.0",
     "fresh": "0.5.2",
     "gzip-size": "5.1.1",
