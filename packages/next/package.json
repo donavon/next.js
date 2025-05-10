@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@ampproject/toolbox-optimizer": "2.7.1-alpha.0",
-    "@babel/runtime": "7.12.5",
+    "@babel/runtime": "7.26.10",
     "@hapi/accept": "5.0.1",
     "@next/env": "10.0.4-canary.3",
     "@next/polyfill-module": "10.0.4-canary.3",
